@@ -5,9 +5,7 @@ import {Link, graphql} from 'gatsby';
 import './navbar.scss';
 
 
-
 const navbar = () => {
-
   return (
     <div className="navWrapper">
       <div className="navbar">
