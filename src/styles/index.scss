@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap');
+
+$primary-font: 'Inter', sans-serif;
+$black: #000000;
+$light-blue: #56CCF2;
+
+* {
+  font-family: $primary-font;
+  color: $black;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 70px;
+}
